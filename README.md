@@ -32,6 +32,8 @@
   </a>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
+  
+ 🛠 Analytics & Languages
   <div display="flex">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=karinlmarques&show_icons=true&theme=midnight-purple"/>
    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinlmarques&layout=compact&theme=midnight-purple">
