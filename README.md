@@ -4,7 +4,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: learn more and more.
 
 - 🌱 I’m currently learning Languages and Tools:
 <p align="left"> 
